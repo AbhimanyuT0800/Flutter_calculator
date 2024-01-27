@@ -4,7 +4,7 @@ import 'package:calculator/core/theme/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-var value = '';
+
 const List keyContent = [
   'AC',
   'C',
